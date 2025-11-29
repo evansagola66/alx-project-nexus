@@ -1,5 +1,5 @@
 # alx-project-nexus
-## Movie Recommendation App
+## Movie Recommendation App - Movie Find
 
 A lightweight and modern movie discovery platform built with **Next.js**, **TypeScript**, and the **App Router**. The app allows users to browse trending movies, search for titles, view detailed information, and mark movies as favorites for quick access.
 
@@ -14,5 +14,5 @@ A lightweight and modern movie discovery platform built with **Next.js**, **Type
 - Next.js  
 - TypeScript  
 - Axios  
-- TMDB API  
+- local storage API  
 - Tailwind CSS 
